@@ -2,7 +2,7 @@
   "name": "my_e_commerce",
   "version": "1.0.0",
   "description": "a backend for e-commerce website",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
